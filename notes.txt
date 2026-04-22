@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 main branch updated
 Hi
+=======
+feature1 update** version2
+>>>>>>> feature1
